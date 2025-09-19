@@ -1,6 +1,6 @@
 # Hi, I’m Joseph Baya 👋
 
-🎓 **Applied Statistician ** | 📊 **Data Science & AI practitioner ** | 🌍 **EdTech & Analytics Enthusiast**
+ **Applied Statistician ** | 📊 **Data Science & AI practitioner ** | 🌍 **EdTech & Analytics Enthusiast**
 
 I’m passionate about applying **Data Science, AI, and Statistics** to solve real-world problems, especially in **education technology and sustainable development**.  
 Currently contributing to open-source projects, developing curriculum-based learning resources, and building AI applications for agriculture and education.
@@ -27,7 +27,8 @@ Currently contributing to open-source projects, developing curriculum-based lear
 
 ## Selected Projects
 - **ZeaWatch** – AI-based mobile app for detecting maize leaf diseases  
-- **CBC Mathematics Books** – Grade 9 & 10 Probability resources (questions, activities, real-life applications)  
+- **CBC Mathematics Books** – Grade 9 & 10 Probability resources (questions, activities, real-life applications)
+- **Climate Echoes** – Educational project raising awareness on climate change impacts and sustainable solutions  
 - **R-Instat Contributions** – Enhancing statistical software tools for education and research  
 
 ---
