@@ -1,6 +1,6 @@
-# Hi, I’m Joseph Baya 👋
+# Hi, I’m Joseph Baya 
 
- **Applied Statistician ** | 📊 **Data Science & AI practitioner ** | 🌍 **EdTech & Analytics Enthusiast**
+ **Applied Statistician**  | 📊 **Data Science & AI practitioner**  | 🌍 **EdTech & Analytics Enthusiast**
 
 I’m passionate about applying **Data Science, AI, and Statistics** to solve real-world problems, especially in **education technology and sustainable development**.  
 Currently contributing to open-source projects, developing curriculum-based learning resources, and building AI applications for agriculture and education.
